@@ -1,1 +1,1 @@
-Dont know what happened to my jupyter notebook but the code works but when I tried to re run the program since the files i thought were the png's werent actually png's, my notebook just decided to no longer recognize seaborn
+Dont know what happened to my jupyter notebook but the code works but when I tried to re run the program since the files i thought were the png's werent actually png's, my notebook just decided to no longer recognize seaborn, therefore not allowing me to save the pngs
